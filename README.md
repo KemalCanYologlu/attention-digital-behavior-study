@@ -20,3 +20,8 @@ digital behavior, attention patterns, and academic performance among university 
 
 ## Notes on Data Privacy
 The raw survey dataset is not included in this public repository to protect participant privacy.
+
+## Key Findings (Summary)
+- Sustained attention was negatively associated with attention-related academic mistakes.
+- Higher levels of digital distraction were linked to lower focus duration.
+- Non-parametric results were consistent with theoretical expectations.
